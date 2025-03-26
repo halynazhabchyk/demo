@@ -1,2 +1,4 @@
 Smoke Test
 A test suite that covers the main functionality of a component or system to determine whether it works properly before planned testing begins.
+TEST BASIS
+All documents from which the requirements of a component or system can be inferred. The documentation on which the test cases are based. If a document can be amended only by way of formal amendment procedure
